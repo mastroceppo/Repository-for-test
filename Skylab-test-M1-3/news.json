@@ -1,0 +1,71 @@
+{
+  "status": "ok",
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "CleanTechnica"
+      },
+      "author": "Tim Dixon",
+      "title": "China × Cleantech — January 2021",
+      "description": "Welcome to China × Cleantech — January 2021 edition. Our China x Cleantech series covers top cleantech stories in China each month. Happy 牛 Year! I hope your Spring festival went well, Happy 牛 (NIU) Year. EV Sales China — 9.4% Plugin Vehicle Share In Another …",
+      "url": "https://cleantechnica.com/2021/02/28/chinaxcleantechjanuary2021/",
+      "urlToImage": "https://cleantechnica.com/files/2019/02/ChinaxCleantech_red_new_map1.jpg",
+      "publishedAt": "20210228T06:31:53Z",
+      "content": "Welcome to China × Cleantech January 2021 edition. Our China x Cleantech series covers top cleantech stories in China each month.\r\nHappy Year!\r\nI hope your Spring festival went well, Happy (NIU) Year… [+10188 chars]"
+    },
+    {
+      "source": {
+        "id": "thehindu",
+        "name": "The Hindu"
+      },
+      "author": "Reuters",
+      "title": "Meet Hayley Arceneaux, first person to go into space with a prosthesis",
+      "description": "SpaceX is targeting the fourperson mission for the fourth quarter of 2021",
+      "url": "https://www.thehindu.com/scitech/meethayleyarceneauxfirstpersontogointospacewithaprosthesis/article33953857.ece",
+      "urlToImage": "https://www.thehindu.com/scitech/96fj10/article33953856.ece/ALTERNATES/LANDSCAPE_615/20210225T200526Z761426494RC2WZL92S1BFRTRMADP3SPACEEXPLORATIONINSPIRATIO",
+      "publishedAt": "20210228T06:13:12Z",
+      "content": "Bone cancer survivor Hayley Arceneaux is thrilled to be going into space. As a crew member on SpaceX's Inspiration4, the world's first allcommercial astronaut mission to Earth's orbit, Arceneaux hop… [+1862 chars]"
+    },
+    {
+      "source": {
+        "id": "thetimesofindia",
+        "name": "The Times of India"
+      },
+      "author": "Bloomberg",
+      "title": "Why Warren Buffett won’t take the Reddit bait",
+      "description": "The biggest omission from Buffett’s letter was any rumination on markets and valuations, nor were there signs that maybe he’d come to accept higher prices as the new normal.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/thisonetoowarrenbuffettwonttaketheredditbaittaralachapelle/articleshow/81253577.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid81253728,width1070,height580,imgsize432122,overlayetmarkets/photo.jpg",
+      "publishedAt": "20210228T04:54:47Z",
+      "content": "By Tara LachapelleAll thats required is the passage of time, an inner calm, began a sentence in Warren Buffetts annual letter to his followers Saturday. He was talking about the essentials of investi… [+6387 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CleanTechnica"
+      },
+      "author": "Winter Wilson",
+      "title": "How NVIDIA Brings Autonomy To Automakers",
+      "description": "In this episode of our CleanTech Talk podcast interview series, Zachary Shahan, Director and CEO of CleanTechnica, and Danny Shapiro, Senior Director of Automotive at NVIDIA, sit down to talk about autonomous vehicles. You can listen to the full conversation …",
+      "url": "https://cleantechnica.com/2021/02/27/hownvidiabringsautonomytoautomakers/",
+      "urlToImage": "https://cleantechnica.com/files/2021/02/NVIDIADRIVEe1614488544701.png",
+      "publishedAt": "20210228T04:47:05Z",
+      "content": "In this episode of our CleanTech Talk podcast interview series, Zachary Shahan, Director and CEO of CleanTechnica, and Danny Shapiro, Senior Director of Automotive at NVIDIA, sit down to talk about a… [+3578 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Post Magazine"
+      },
+      "author": "Resty Woro Yuniar, Resty Woro Yuniar",
+      "title": "Indonesia woos Tesla, Chinese and South Korean firms, in bid for electric vehicle battery crown",
+      "description": "As momentum grows for the adoption of electric vehicles in Asia, Indonesia is hoping to become a key part of the supply chain by becoming a major producer of lithiumion batteries.Southeast Asia’s largest economy owns onequarter of the world’s reserves of ni…",
+      "url": "https://www.scmp.com/weekasia/economics/article/3123324/indonesiawoosteslachineseandsouthkoreanfirmsbid",
+      "urlToImage": "https://cdn.iscmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/27/ab5c6ffa781911eb8b9d76c80a88a6d4_image_hires_160209.jpeg?itok=MeHrQY_u&v=1614412937",
+      "publishedAt": "20210228T04:30:18Z",
+      "content": "Published: 12:30pm, 28 Feb, 2021\r\nUpdated: 12:30pm, 28 Feb, 2021"
+    }
+
+  ]
+}

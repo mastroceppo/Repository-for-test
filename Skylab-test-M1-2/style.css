@@ -1,0 +1,99 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+*, *:after, *:before {
+  box-sizing: border-box;
+}
+.wrapper {
+  height: 100%;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.wrapper > div {
+  width: 500px;
+  height: 500px;
+  background: red;
+}
+.btn {
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+}
+.btn.out .corners {
+  position: absolute;
+  width: 100%;
+  visibility: hidden;
+  transition-duration: 0.3s;
+}
+.btn.out .corners:before, .btn.out .corners:after {
+  content: '';
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-style: solid;
+  transition-duration: 0.3s;
+  transform: translateZ(0);
+}
+.btn.out .corners.top:before {
+  border-width: 1px 0 0 1px;
+}
+.btn.out .corners.top:after {
+  border-width: 1px 1px 0 0;
+}
+.btn.out .corners.bottom:before {
+  border-width: 0 0 1px 1px;
+}
+.btn.out .corners.bottom:after {
+  border-width: 0 1px 1px 0;
+}
+.btn.out:hover .corners.top:before {
+  border-width: 3px 0 0 3px;
+}
+.btn.out:hover .corners.top:after {
+  border-width: 3px 3px 0 0;
+}
+.btn.out:hover .corners.bottom:before {
+  border-width: 0 0 3px 3px;
+}
+.btn.out:hover .corners.bottom:after {
+  border-width: 0 3px 3px 0;
+}
+.btn.out .corners:before {
+  left: 0;
+}
+.btn.out .corners:after {
+  right: 0;
+}
+.btn.out .corners.top {
+  top: 0;
+}
+.btn.out .corners.bottom {
+  bottom: 20px;
+}
+.btn.red .corners:after, .btn.red .corners:before {
+  border-color: pink;
+}
+.btn.out:hover .corners:before, .btn.out:hover .corners:after, .btn.out:hover .corners.top, .btn.out:hover .corners.bottom {
+  border-color: green;
+  visibility: visible;
+}
+.btn.out:hover .corners:before {
+  left: 20px;
+  width: 30px;
+  height: 30px;
+}
+.btn.out:hover .corners:after {
+  right: 20px;
+  width: 30px;
+  height: 30px;
+}
+.btn.out:hover .corners.top {
+  top: 20px;
+}
+.btn.out:hover .corners.bottom {
+  bottom: 50px;
+}
